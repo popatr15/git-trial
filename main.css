@@ -1,4 +1,9 @@
 .gallery{
     color: red;
+    background-image: url(https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg);
+    background-size: cover; 
     
+}
+.background{
+    background-image: url(https://www.google.com/search?q=soda+bottle&tbm=isch&source=iu&ictx=1&fir=_SM8urX-jy76SM%253A%252CX4d4zPmU85EsTM%252C_&usg=__mRuR4FodTwROT38Wb509h3VamdA%3D&sa=X&ved=2ahUKEwi356iExPzaAhVjzIMKHemNBgcQ9QEwAHoECAAQKg#imgrc=3Qsh2KaBcVIqAM:);
 }
